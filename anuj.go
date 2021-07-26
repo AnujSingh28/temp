@@ -1,3 +1,3 @@
-package mani
+package main
 
 //sdsdsdsdsd
